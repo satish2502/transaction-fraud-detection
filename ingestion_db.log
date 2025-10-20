@@ -1,0 +1,3 @@
+2025-10-20 09:36:31,473 - INFO - Ingesting fraud_data.csv into db
+2025-10-20 09:36:39,963 - INFO - ------------ingestion complete-------------
+2025-10-20 09:36:39,963 - INFO - Total time taken: 0.18 minutes

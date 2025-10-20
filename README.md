@@ -63,6 +63,3 @@ Random Forest showed strong ensemble stability across data splits.
 
 The system demonstrates exceptional accuracy and reliability for detecting fraudulent financial transactions. Using an intuitive Streamlit dashboard, analysts can seamlessly explore model outputs, interpret fraud risks, and make data-driven decisions in real-time.
 
-### Author: Satish Gaikwad
-### Repository: Financial-Fraud-Detection-Streamlit
-### Built With: Python, Streamlit, Scikit-learn, XGBoost, RandomForest

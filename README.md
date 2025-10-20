@@ -49,7 +49,7 @@ Performance Analytics
 
 Interactive charts displaying accuracy, ROC-AUC, and feature importance for each model.
 
-(Include your Streamlit app screenshots here, e.g. ![App Preview](images/app_preview.png))
+(Include your Streamlit app screenshots here, e.g. ![App Preview]([images/app_preview.png](https://github.com/satish2502/transaction-fraud-detection/blob/main/Screenshot%202025-10-20%20180536.png)
 
 ## 📈 Insights
 
